@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<carrera>
+    <coche>
+        <combustible>gasolina</combustible>
+        <cv>12</cv>
+        <marca>Seat</marca>
+        <matricula>2215GGH</matricula>
+        <modelo>Leon</modelo>
+        <posicion>3</posicion>
+    </coche>
+    <coche>
+        <combustible>diesel</combustible>
+        <cv>14</cv>
+        <marca>Opel</marca>
+        <matricula>2234CHT</matricula>
+        <modelo>Leon</modelo>
+        <posicion>4</posicion>
+    </coche>
+    <coche>
+        <combustible>gas</combustible>
+        <cv>5</cv>
+        <marca>Mazda</marca>
+        <matricula>7854BC</matricula>
+        <modelo>Cruise</modelo>
+        <posicion>2</posicion>
+    </coche>
+    <coche>
+        <combustible>hibrido</combustible>
+        <cv>2</cv>
+        <marca>Toyota</marca>
+        <matricula>7565DC</matricula>
+        <modelo>Hyd3</modelo>
+        <posicion>5</posicion>
+    </coche>
+    <coche>
+        <combustible>gasolina</combustible>
+        <cv>10</cv>
+        <marca>BMV</marca>
+        <matricula>555GG</matricula>
+        <modelo>x10rt</modelo>
+        <posicion>1</posicion>
+    </coche>      
+</carrera>
